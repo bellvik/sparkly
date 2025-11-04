@@ -1,0 +1,1 @@
+C:\Users\Belvi\sparkly\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\19x3s282\obj\arm64-v8a
